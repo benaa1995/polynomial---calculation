@@ -1,4 +1,4 @@
-# polynomial---calculation
+# polynomial --- calculation
 
 ======Description======
 
